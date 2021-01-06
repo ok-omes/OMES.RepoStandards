@@ -10,11 +10,16 @@ This project contains checklists, templates and other resources to include with 
 >"There are two hard things in computer science: cache invalidation, naming things, and off-by-one errors."  
 > – Leon Bambrick
 
-- [ ] Give the repo a name in the following fashion. `Agency.Product.Architecture`  
-  _Examples_
-  - OMES.Dashboard.React
-  - OSDH.DataService.Wcf
-  - OMES.AddressApi.AzFuncs
+- [ ] Give the repo a name in the following fashion. 
+  - Monorepo - `Agency.Product`  
+    _Examples_
+    - OMES.AppName
+  - Microrepo - `Agency.Product.Function`  
+    _Examples_
+    - OMES.AppName.Service
+    - OMES.AppName.Common
+    - OMES.AppName.Desktop
+    - OMES.AppName.Website
 
 - [ ] Give your repo **a description** and **some topics** - you can set these at the right side of the web interface, next to the file listings. The description should cover the purpose and scope of the project. The tags should include the technologies used and the features of the project. For example you could have tags: `c#` `node` `sql` `2fa` `postgres` ect.
 
