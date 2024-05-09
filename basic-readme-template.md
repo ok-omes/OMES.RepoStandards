@@ -6,15 +6,15 @@
 
 ## Getting Started
 
-<!-- In this seation list anything that the reader will need to have installed to get the project working locally. Also give a short paragraph about how to actully execute the repo -->
+<!-- In this section list anything that the reader will need to have installed to get the project working locally. Also give a short paragraph about how to actually execute the repo -->
 
 ## Structure
 
-<!-- This is for mono repos only, give a high level overview of how things are structed. This gives the reader a starting point on hunting down what they need to do their work. Remove the heading if it is not needed. -->
+<!-- This is for mono repos only, give a high level overview of how things are structured. This gives the reader a starting point on hunting down what they need to do their work. Remove the heading if it is not needed. -->
 
 ## Quick Links
 
-<!-- Since only code is kept in github it is recomended to add some links back to various resources in DevOps. There could be other external sites that it would make sense to link to here for your specific repo. -->
+<!-- Since only code is kept in github it is recommended to add some links back to various resources in DevOps. There could be other external sites that it would make sense to link to here for your specific repo. -->
 
 - [Boards]()
 - [Pipelines]()
