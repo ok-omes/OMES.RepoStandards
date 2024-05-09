@@ -27,7 +27,7 @@ This project contains checklists, templates and other resources to include with 
 
 ## More README Resources
 
-You may find these resources useful for structuring your project's README file (edit and add your favourites!)
+You may find these resources useful for structuring your project's README file (edit and add your favorites!)
 
 - https://github.com/noffle/art-of-readme
 - https://gist.github.com/PurpleBooth/109311bb0361f32d87a2
